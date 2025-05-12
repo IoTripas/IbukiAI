@@ -16,7 +16,7 @@
 
 背景は六角形（工業・テクノロジーの象徴）
 
-![ibukiAI-a.png](ibukiAI-a.png)
+![ibukiAI-a.png](./icon/ibukiAI-a.png)
 
 ## B案
 【ibuki（息吹）＋テクノロジー】
@@ -28,4 +28,8 @@
 
 上部に「ibukiAI」の文字を曲線に沿わせる
 
-![ibukiAI-b.png](ibukiAI-b.png)
+![ibukiAI-b.png](./icon/ibukiAI-b.png)
+
+## C案
+
+![ibukiAI-c.png](./icon/ibukiAI-c.png)
